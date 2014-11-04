@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # A simple python program to do random line-sampling on a text file.
-# Usage: ./sample.py DATA_FILE SAMPLE_NUM
+# Usage: ./sampler.py DATA_FILE SAMPLE_NUM
 # DATA_FILE specifies the file to be sampled, and SAMPLE_NUM specifies the number of lines to be sampled.
 
 import random

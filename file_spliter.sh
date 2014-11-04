@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # A simple bash script to split a text file (i.e. line by line) into several small pieces evenly.
-# Usage: ./file_splite.sh FILE_NAME NUM_CHUNK
+# Usage: ./file_spliter.sh FILE_NAME NUM_CHUNK
 # FILENAME specifies the file to split.
 # NUM_CHUNK is the number of pieces you want to split.
 
