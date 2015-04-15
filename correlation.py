@@ -1,6 +1,6 @@
-#!/home/work/.jumbo/bin/python
+#!/user/bin/python
 
-# Written by huangxiaodong, to calculate the correlation coefficient of two variables.
+# Written by hxdone, to calculate the correlation coefficient of two variables.
 # Usage: ./correlation.py FILENAME
 # Each line in FILENAME must be two numbers separated by '\t'
 
